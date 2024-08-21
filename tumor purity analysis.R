@@ -495,6 +495,6 @@ ggplot(data, aes(logFC, -log10(adj.P.Val))) +
 
 
 
-111
+删除全部删除
 
 
