@@ -491,3 +491,10 @@ ggplot(data, aes(logFC, -log10(adj.P.Val))) +
   xlab("Log2FC") +
   ylab("-Log10(adj.P.Val)")
 
+
+
+
+
+111
+
+
